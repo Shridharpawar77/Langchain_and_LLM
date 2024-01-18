@@ -24,8 +24,6 @@ def scrape_linkedin_profile(linkedin_profile_url:str):
 
     return data
 
-def scrape_linkedin_user_pro
-
 
 
     
